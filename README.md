@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/36atharva](https://github.com/36atharva)
 
-- 💬 Ask me about **CSS, Bootstrap, HTML**
+- 💬 Ask me about --> **CSS, Bootstrap, HTML**
 
-- 📫 How to reach me **atharva.3936@gmail.com**
+- 📫 How to reach me --> **atharva.3936@gmail.com**
 
-- ⚡ Fun fact **I like sharing my journey on Twitter, here's the link- https://twitter.com/atharvatwts**
+- ⚡ Fun fact --> **I like sharing my journey on Twitter, here's the link- https://twitter.com/atharvatwts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
