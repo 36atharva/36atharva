@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/atharvatwts" target="blank"><img src="https://img.shields.io/twitter/follow/atharvatwts?logo=twitter&style=for-the-badge" alt="atharvatwts" /></a> </p>
 
-- 🔭 I’m currently working on **TinDog**
+- 🔭 I’m currently working on **My Website**
 
 - 🌱 I’m currently learning **Bootstrap and JavaScript**
 
